@@ -4,9 +4,3 @@ appVersion: 5.1.4
 name: podinfo
 engine: gotpl
 description: Podinfo Helm chart for Kubernetes
-home: https://github.com/captainroy-hy/podinfo
-maintainers:
-- email: seiwy2010@gmail.com
-  name: roywang
-sources:
-- https://github.com/stefanprodan/podinfo
